@@ -18,3 +18,4 @@
 
 ## 截图示例
 <img width="1978" height="1186" alt="image" src="https://github.com/user-attachments/assets/56e04a08-00be-4ead-8614-3a129e1e395a" />
+<img width="1978" height="1186" alt="image" src="https://github.com/user-attachments/assets/9b8a0746-ea7f-4741-9a6f-8c7ea33b3a3c" />
